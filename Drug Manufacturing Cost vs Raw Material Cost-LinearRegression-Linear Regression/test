@@ -1,0 +1,5 @@
+What This Project Is
+In pharmaceutical manufacturing, raw material cost (APIs, excipients, chemicals) is one of the largest contributors to total manufacturing cost.
+This project studies and predicts:
+How changes in raw material cost affect total drug manufacturing cost
+using Simple Linear Regression with only one input feature.
